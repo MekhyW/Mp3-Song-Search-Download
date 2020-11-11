@@ -15,5 +15,6 @@ Simple python-based exe program created to download and convert music in the mos
 
 ### Where to Find Me:
 
+* Email: felipe_catapano@yahoo.com.br
 * [Telegram Contact 🔵](https://t.me/mekhyw)
 * [Twitter Page 🐦](https://twitter.com/MekhyW)
